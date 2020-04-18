@@ -21,3 +21,16 @@ export enum NoYes {
   Yes = 2,
 }
 
+/**
+ * Enum dengan inisialiasi dan jika tidak di inisiailasi 
+ * maka akan di auto increment dari nilai sebelumnya
+ */ 
+export enum Ongko{
+  Nol,  // 0
+  Siji, // 1
+  Songo = 9, // 9
+  Sepuluh,  // 10
+  Rolas = 12, // 12
+  Telulas, // 13
+}
+
