@@ -8,7 +8,7 @@
  * Default value dari Enum member adalah numerik!
  * 
  * assert.equal(YesNo.Yes, 0) // true
- * assert.equa.(YesNo,1 ) // true
+ * assert.equal.(YesNo,1 ) // true
  */
 export enum YesNo {
   Yes, // member 1
