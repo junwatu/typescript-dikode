@@ -15,11 +15,7 @@ describe('typescript dikode test', () => {
   })
 });
 
-describe('Enum deafult value test', () => {
-  it('0', () =>{
-    expect(YesNo.Yes).toEqual(0);
-  })
-  it('1', () =>{
-    expect(YesNo.Yes).toEqual(1);
-  })
-})
+
+
+
+
